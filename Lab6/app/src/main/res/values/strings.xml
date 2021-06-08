@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="sign_in_label">Iniciar sesión con tu cuenta Google</string>
+    <string name="tag">TAG</string>
+    <string name="sign_in_error">Error al iniciar sesión</string>
+    <string name="welcome">¡Bienvenido!</string>
+    <string name="user_name">Nombre del usuario</string>
+    <string name="user_email">Email del usuario</string>
+    <string name="user_name_label">userName</string>
+    <string name="user_email_label">userEmail</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="disconnect">Desconectar cuenta</string>
+    <string name="success_logout">¡Ha cerrado sesión exitosamente!</string>
+    <string name="success_disconnect">¡Ha desconectado su cuenta exitosamente!</string>
+</resources>
